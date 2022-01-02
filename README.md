@@ -63,7 +63,8 @@
 ### Status:
 
 [<img src="https://github-readme-stats.vercel.app/api?username=yrcunha&show_icons=true&theme=dracula&title_color=000000&text_color=000000&locale=en" alt="Status" align="left" />](#)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrcunha&show_icons=true&theme=dracula&title_color=000000&hide_border=false&locale=en&layout=demo" alt="Linguagens mais usadas" align="left" />](#)
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrcunha&show_icons=true&theme=dracula&title_color=000000&hide_border=false&locale=en&layout=demo" alt="Linguagens mais usadas"/>](#)
 
 <!--
 ## NodeJS | Javascript | Typescript
