@@ -2,7 +2,7 @@
 
 🔥 Senior Backend Developer 
 
-🫶🏽 Open source & games
+🫶🏽 I love Open source & games
 
 💼 I'm currently working at [Darwin Seguros](https://www.darwinseguros.com.br/)
 
